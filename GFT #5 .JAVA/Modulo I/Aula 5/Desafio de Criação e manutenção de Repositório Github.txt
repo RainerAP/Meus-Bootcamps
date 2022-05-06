@@ -1,0 +1,7 @@
+#Professor Venilton Falvo Jr
+
+# Proposta:
+
+- Criar Repositório Github e Alimentá-lo via Git Bash
+ 
+Obs.: Estou fazendo isso... espero que bem!

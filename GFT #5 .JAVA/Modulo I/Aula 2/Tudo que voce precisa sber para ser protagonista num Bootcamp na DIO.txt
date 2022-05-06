@@ -1,0 +1,12 @@
+#Aulas com o professor Venilton Falvo Jr.
+
+##Parte 1
+- Apresentação e Objetivo Geral
+- Desvendando os Bootcamps DIO
+- Desafios de Codigo
+- Desafios de Projeto
+- Dicas Finais e Conclusão
+
+Obs.: Pincelamentodas principais necessidades que teremos ao enfrentar um Bootcamp, 
+com explicações sobre o que é código, projeto e como funcionam os bootcamps, e finalizando 
+com dicas profissionais.

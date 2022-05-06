@@ -1,0 +1,14 @@
+#Professor Otávio Reis Perkles.
+
+#Tópicos Abordados:
+- Introdução ao Git
+- Navegação via command line interface e instalação
+- Entendendo como o Git funciona por baixo dos panos
+- Primeiros comandos no Git
+- Ciclo de vida dos arquivos no Git
+- Introdução ao Github
+- Resolvendo conflitos
+
+
+Obs.: O Perkles é fera, explica de uma forma leve, e, ao mesmo tempo rápida, onde consegui absorver muito do que foi ensinado
+e principalmente, estimular a prática.
